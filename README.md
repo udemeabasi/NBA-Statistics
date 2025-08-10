@@ -22,7 +22,12 @@ You can view the interactive Tableau dashboard here:
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](./images/dashboard_preview.png)
+![Dashboard Screenshot](./images/coverpage.PNG)
+![Dashboard Screenshot](./images/player_analysis.PNG)
+![Dashboard Screenshot](./images/africa.PNG)
+![Dashboard Screenshot](./images/europe.PNG)
+![Dashboard Screenshot](./images/north_america.PNG)
+![Dashboard Screenshot](./images/teams_players.PNG)
 
 ---
 
